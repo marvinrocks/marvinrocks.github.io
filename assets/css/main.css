@@ -194,8 +194,7 @@
 
 	#header {
 		position: relative;
-		background: #F60404 url("images/overlay.png");
-		color: #fff;
+		background-image: url("http://img0.cfstatic.com/wallpapers/588986f0f1131701a285528d6001b9df_large.jpeg");
 		cursor: default;
 	}
 
